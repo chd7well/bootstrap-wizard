@@ -1,5 +1,6 @@
 Twitter Bootstrap Wizard
 ============================
+(forked from VinceG/twitter-bootstrap-wizard)
 
 This Twitter Bootstrap plugin builds a wizard using a formatted tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events allows to hook into each step individually.
 
