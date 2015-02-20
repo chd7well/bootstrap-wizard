@@ -14,7 +14,7 @@
 "name": "Christian Dumhart",
 "email": "christian.dumhart@chd.at",
 "homepage": "http://www.chd.at/"
-},
+}
 ],
 "minimum-stability": "dev",
 "autoload": {
